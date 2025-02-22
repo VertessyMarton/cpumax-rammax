@@ -1,8 +1,6 @@
 #include <vector>
 #include <cstdlib>
 #include <cstring>
-#include <thread>
-#include <chrono>
 
 int main() {
     std::vector<void*> a;
